@@ -12,9 +12,10 @@
                       company_name: 'Bobs Machinery',
                       company_bingo: 'ddd'
                   }
-              }
-          }
-      }
+            }
+        }
+    }
+}`
 
 
 iterate(project);`
