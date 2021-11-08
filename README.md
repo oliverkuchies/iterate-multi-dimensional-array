@@ -1,8 +1,8 @@
 # Iterate Multi Dimensional Array As String
 
-# Usage
+## Usage
 
-let project = {
+`let project = {
           project: {
               project_name: 'test', 
               user: {
@@ -17,12 +17,13 @@ let project = {
       }
 
 
-iterate(project);
+iterate(project);`
 
-# Result
+## Result
 
-['project.project_name' : 'test',
+`['project.project_name' : 'test',
  'user.first_name': 'Oliver',
  'user.last_name': 'KKK',
  'company.company_name': 'Bobs Machinery',
  'company.company_bingo': 'ddd']
+`
