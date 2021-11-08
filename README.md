@@ -18,7 +18,7 @@
 }`
 
 
-`iterate(project);``
+`iterate(project);`
 
 ## Result
 
