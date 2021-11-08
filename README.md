@@ -1,4 +1,4 @@
-# Iterate Multi Dimensional Array As String
+# Iterate Multi Dimensional Array and return a 'multi dimensional string'
 
 ## Usage
 
