@@ -2,7 +2,8 @@
 
 ## Usage
 
-`let project = {
+```
+let project = {
           project: {
               project_name: 'test', 
               user: {
@@ -15,16 +16,19 @@
             }
         }
     }
-}`
+}
+```
 
 
 `iterate(project);`
 
 ## Result
 
-`['project.project_name' : 'test',
- 'user.first_name': 'Oliver',
- 'user.last_name': 'KKK',
- 'company.company_name': 'Bobs Machinery',
- 'company.company_bingo': 'ddd']
-`
+```[
+          'project.project_name' : 'test',
+          'user.first_name': 'Oliver',
+          'user.last_name': 'KKK',
+          'company.company_name': 'Bobs Machinery',
+           company.company_bingo': 'ddd'
+ ]
+````
