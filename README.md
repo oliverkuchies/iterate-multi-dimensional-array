@@ -24,7 +24,8 @@ let project = {
 
 ## Result
 
-```[
+```
+[
           'project.project_name' : 'test',
           'user.first_name': 'Oliver',
           'user.last_name': 'KKK',
